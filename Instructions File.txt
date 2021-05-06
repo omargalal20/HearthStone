@@ -1,0 +1,50 @@
+Team 243  
+Omar Mohamed Galal Elhanafy 46-1097  
+Sarah Hany Abdelhamid Aly Hassan 46-5892  
+Engy Khaled Ezz Elarab 46-18482 
+CSEN 401 
+
+HearthStone GuideLine 
+
+The Laptop we worked on and made the game is an Asus VivoBook 15, Model X512FA-5I7A and the screen size is 15.6 inches and the resolution is 1920 x 1080. 
+1) Our Main Method is in The GameView Class in The View Package. 
+
+2) In the first window, there are two buttons one in the top left of screen is to exit game , and an another one to play. 
+
+3) In the second window, you choose the two heroes. First player chooses hero then presses the button choose now, then second player chooses and presses the button choose 
+now to start game. 
+
+4)In the third window, in the right will be the information of the two heroes and the shows whether there has been any action performed by or on the hero(hp,ManaCrystals),
+and between them shows who is the current and who is the opponent, and the screen orientiation which means that
+the player who start the game as the current hero will be in the bottom half throughout the game while the the player who was chosen to be opponent will be in the 
+upper half and will remain up.
+ 
+5) In Order to end turn press the yellow button with the name "End Turn". 
+
+6)In the left of the window is where the card info is shown for minion and spell and also there is a pause button on the upper left part of the screen.
+
+7)In the pause window, you will find three buttons:-
+  A) Options, where if this button is pressed you will have the option to perform a rematch and choose your heroes again.
+  B) Quit, where if this button is pressed you will exit the game completely.
+  C) Resume, where if this button is pressed you will return to your game.
+
+8) To see the information of the card whether it will be minion or spell just hover over it to see its information on the left. 
+
+9) To play a minion, if you have enough mana crystals just click on it to play to put the minion in field. Whenever its stats is changed just by hovering over it you will see the change(hp,attack points).
+
+10)To attack with minion, just press on the minion you want to attack with then press on your desired target. 
+
+11)To use hero power:- 
+ A) For Hunter (Rexxar) just press on the button called steady shot and it will damage the opponent. 
+ B) For Mage (Jaine Proudmoore) press on the button called fireblast then press on desired target (to attack minion press on the opponent’s minion and to attack
+ hero just press the opponent’s picture) 
+C) For Paladin (Uther Lightbringer) just press on button called Reinforce to get silver hand recruit. 
+D) For Priest  (Anduin Wrynn) press on the button Lesser Heal and press on your hero’s picture to heal yourself or your minion to heal it. 
+E) For Warlock (Gul’dan) press on button to draw extra card. 
+ 
+12) To use spell :- 
+A) Field Spell :- Just press on spell. 
+B) Minion Target Spell :- press on the spell then desired minion. 
+C) Hero Target Spell :- press on the spell then desired hero. 
+D)AOE Spell:- Just press on spell. 
+E)Leeching Spell:- press on the spell then desired minion. 
